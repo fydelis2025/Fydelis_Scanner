@@ -51,7 +51,7 @@ ruby -Ilib bin/fydelis.rb --help
 ## 📸 Interface do Sistema
 
 <p align="center">
-  <img src="https://github.com/fydelis2025/FydelisTech-Attack/blob/main/Captura de tela 2026-07-08 112229.png" alt="FydelisTech-ATTACK Dashboard" width="100%">
+  <img src="https://github.com/fydelis2025/FydelisTech-Attack/blob/main/Captura de tela 2026-07-20 135612.png" alt="FydelisTech-ATTACK Dashboard" width="100%">
 </p>
 <p align="center">
   <img src="https://github.com/fydelis2025/FydelisTech-Attack/blob/main/Captura de tela 2026-07-08 112246.png" alt="FydelisTech-ATTACK Dashboard" width="100%">
