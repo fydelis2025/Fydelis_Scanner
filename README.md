@@ -48,6 +48,15 @@ ruby -Ilib bin/fydelis.rb --help
 --threads	Define o número de threads (padrão: 50)
 --top-ports	Escaneia apenas as portas mais comuns
 
+## 📸 Interface do Sistema
+
+<p align="center">
+  <img src="https://github.com/fydelis2025/FydelisTech-Attack/blob/main/Captura de tela 2026-07-08 112229.png" alt="FydelisTech-ATTACK Dashboard" width="100%">
+</p>
+<p align="center">
+  <img src="https://github.com/fydelis2025/FydelisTech-Attack/blob/main/Captura de tela 2026-07-08 112246.png" alt="FydelisTech-ATTACK Dashboard" width="100%">
+</p>
+
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request com melhorias.
 
