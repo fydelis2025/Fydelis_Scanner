@@ -47,3 +47,8 @@ ruby -Ilib bin/fydelis.rb --help
 -v, --verbose	Exibe portas fechadas durante o scan
 --threads	Define o número de threads (padrão: 50)
 --top-ports	Escaneia apenas as portas mais comuns
+
+## 🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request com melhorias.
+
+Desenvolvido com foco em segurança e performance.
